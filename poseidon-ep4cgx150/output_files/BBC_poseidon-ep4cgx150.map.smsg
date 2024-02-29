@@ -1,2 +1,0 @@
-Info (10281): Verilog HDL Declaration information at bbc.v(24): object "ROMSEL" differs only in case from object "romsel" in the same scope File: /mnt/Teradisk/SOMHIC/BBC_DemiSTify/rtl/bbc.v Line: 24
-Info (10281): Verilog HDL Declaration information at bbc.v(27): object "ACC_Y" differs only in case from object "acc_y" in the same scope File: /mnt/Teradisk/SOMHIC/BBC_DemiSTify/rtl/bbc.v Line: 27
